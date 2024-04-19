@@ -1,0 +1,67 @@
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 2 GPUs!
+Number of GPUS :2
+Epoch 1 Training Accuracy: 11.424%
+Epoch 2 Training Accuracy: 16.138%
+Epoch 3 Training Accuracy: 17.978%
+Epoch 4 Training Accuracy: 18.99%
+Epoch 5 Training Accuracy: 19.804%
+Epoch 6 Training Accuracy: 20.496%
+Epoch 7 Training Accuracy: 21.22%
+Epoch 8 Training Accuracy: 21.6%
+Epoch 9 Training Accuracy: 21.988%
+Epoch 10 Training Accuracy: 22.33%
+Epoch 11 Training Accuracy: 22.804%
+Epoch 12 Training Accuracy: 23.11%
+Epoch 13 Training Accuracy: 23.274%
+Epoch 14 Training Accuracy: 23.408%
+Epoch 15 Training Accuracy: 23.87%
+Epoch 16 Training Accuracy: 24.056%
+Epoch 17 Training Accuracy: 24.406%
+Epoch 18 Training Accuracy: 24.422%
+Epoch 19 Training Accuracy: 24.896%
+Epoch 20 Training Accuracy: 24.864%
+Epoch 21 Training Accuracy: 25.002%
+Epoch 22 Training Accuracy: 25.414%
+Epoch 23 Training Accuracy: 25.602%
+Epoch 24 Training Accuracy: 25.736%
+Epoch 25 Training Accuracy: 25.876%
+Epoch 26 Training Accuracy: 26.168%
+Epoch 27 Training Accuracy: 26.234%
+Epoch 28 Training Accuracy: 26.39%
+Epoch 29 Training Accuracy: 26.546%
+Epoch 30 Training Accuracy: 26.662%
+Epoch 31 Training Accuracy: 26.682%
+Epoch 32 Training Accuracy: 26.824%
+Epoch 33 Training Accuracy: 27.124%
+Epoch 34 Training Accuracy: 27.202%
+Epoch 35 Training Accuracy: 27.344%
+Epoch 36 Training Accuracy: 27.354%
+Epoch 37 Training Accuracy: 27.626%
+Epoch 38 Training Accuracy: 27.818%
+Epoch 39 Training Accuracy: 27.892%
+Epoch 40 Training Accuracy: 27.88%
+Epoch 41 Training Accuracy: 28.02%
+Epoch 42 Training Accuracy: 28.072%
+Epoch 43 Training Accuracy: 28.27%
+Epoch 44 Training Accuracy: 28.38%
+Epoch 45 Training Accuracy: 28.518%
+Epoch 46 Training Accuracy: 28.57%
+Epoch 47 Training Accuracy: 28.608%
+Epoch 48 Training Accuracy: 28.816%
+Epoch 49 Training Accuracy: 28.858%
+Epoch 50 Training Accuracy: 28.886%
+Finished Training
+Training Time : 789.3971521854401
+Final Training Loss: 3.13030389782108
+Final Training Accuracy: 28.886%
+Memory used for training: 2943378 Bytes
+Saving the model as LogisticRegression_CIFAR100_2GPUs.pth
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 2 GPUs!
+Test Accuracy: 18.62%
+Test Loss: 3.685915371414962

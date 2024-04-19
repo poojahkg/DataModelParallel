@@ -1,0 +1,117 @@
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 2 GPUs!
+Number of GPUS :2
+Epoch 1 Training Accuracy: 36.35%
+Epoch 2 Training Accuracy: 40.022%
+Epoch 3 Training Accuracy: 41.206%
+Epoch 4 Training Accuracy: 41.67%
+Epoch 5 Training Accuracy: 42.196%
+Epoch 6 Training Accuracy: 42.622%
+Epoch 7 Training Accuracy: 42.664%
+Epoch 8 Training Accuracy: 43.126%
+Epoch 9 Training Accuracy: 42.914%
+Epoch 10 Training Accuracy: 43.19%
+Epoch 11 Training Accuracy: 43.32%
+Epoch 12 Training Accuracy: 43.474%
+Epoch 13 Training Accuracy: 43.742%
+Epoch 14 Training Accuracy: 43.71%
+Epoch 15 Training Accuracy: 43.628%
+Epoch 16 Training Accuracy: 43.844%
+Epoch 17 Training Accuracy: 43.952%
+Epoch 18 Training Accuracy: 43.86%
+Epoch 19 Training Accuracy: 44.052%
+Epoch 20 Training Accuracy: 44.258%
+Epoch 21 Training Accuracy: 44.058%
+Epoch 22 Training Accuracy: 44.212%
+Epoch 23 Training Accuracy: 44.238%
+Epoch 24 Training Accuracy: 44.32%
+Epoch 25 Training Accuracy: 44.464%
+Epoch 26 Training Accuracy: 44.346%
+Epoch 27 Training Accuracy: 44.444%
+Epoch 28 Training Accuracy: 44.488%
+Epoch 29 Training Accuracy: 44.628%
+Epoch 30 Training Accuracy: 44.722%
+Epoch 31 Training Accuracy: 44.69%
+Epoch 32 Training Accuracy: 44.48%
+Epoch 33 Training Accuracy: 44.908%
+Epoch 34 Training Accuracy: 44.754%
+Epoch 35 Training Accuracy: 44.95%
+Epoch 36 Training Accuracy: 44.714%
+Epoch 37 Training Accuracy: 45.012%
+Epoch 38 Training Accuracy: 44.974%
+Epoch 39 Training Accuracy: 44.844%
+Epoch 40 Training Accuracy: 44.914%
+Epoch 41 Training Accuracy: 45.116%
+Epoch 42 Training Accuracy: 44.974%
+Epoch 43 Training Accuracy: 44.992%
+Epoch 44 Training Accuracy: 44.988%
+Epoch 45 Training Accuracy: 45.02%
+Epoch 46 Training Accuracy: 45.34%
+Epoch 47 Training Accuracy: 45.296%
+Epoch 48 Training Accuracy: 45.228%
+Epoch 49 Training Accuracy: 45.256%
+Epoch 50 Training Accuracy: 45.152%
+Epoch 51 Training Accuracy: 45.44%
+Epoch 52 Training Accuracy: 45.322%
+Epoch 53 Training Accuracy: 45.278%
+Epoch 54 Training Accuracy: 45.288%
+Epoch 55 Training Accuracy: 45.356%
+Epoch 56 Training Accuracy: 45.266%
+Epoch 57 Training Accuracy: 45.342%
+Epoch 58 Training Accuracy: 45.25%
+Epoch 59 Training Accuracy: 45.424%
+Epoch 60 Training Accuracy: 45.298%
+Epoch 61 Training Accuracy: 45.512%
+Epoch 62 Training Accuracy: 45.724%
+Epoch 63 Training Accuracy: 45.466%
+Epoch 64 Training Accuracy: 45.714%
+Epoch 65 Training Accuracy: 45.456%
+Epoch 66 Training Accuracy: 45.688%
+Epoch 67 Training Accuracy: 45.69%
+Epoch 68 Training Accuracy: 45.71%
+Epoch 69 Training Accuracy: 45.498%
+Epoch 70 Training Accuracy: 45.69%
+Epoch 71 Training Accuracy: 45.572%
+Epoch 72 Training Accuracy: 45.6%
+Epoch 73 Training Accuracy: 45.594%
+Epoch 74 Training Accuracy: 45.388%
+Epoch 75 Training Accuracy: 45.666%
+Epoch 76 Training Accuracy: 45.87%
+Epoch 77 Training Accuracy: 45.682%
+Epoch 78 Training Accuracy: 45.656%
+Epoch 79 Training Accuracy: 45.914%
+Epoch 80 Training Accuracy: 45.664%
+Epoch 81 Training Accuracy: 45.67%
+Epoch 82 Training Accuracy: 45.536%
+Epoch 83 Training Accuracy: 45.628%
+Epoch 84 Training Accuracy: 45.858%
+Epoch 85 Training Accuracy: 45.918%
+Epoch 86 Training Accuracy: 45.834%
+Epoch 87 Training Accuracy: 45.956%
+Epoch 88 Training Accuracy: 45.83%
+Epoch 89 Training Accuracy: 45.872%
+Epoch 90 Training Accuracy: 45.942%
+Epoch 91 Training Accuracy: 45.89%
+Epoch 92 Training Accuracy: 45.852%
+Epoch 93 Training Accuracy: 45.98%
+Epoch 94 Training Accuracy: 45.742%
+Epoch 95 Training Accuracy: 45.826%
+Epoch 96 Training Accuracy: 45.846%
+Epoch 97 Training Accuracy: 45.9%
+Epoch 98 Training Accuracy: 45.86%
+Epoch 99 Training Accuracy: 46.038%
+Epoch 100 Training Accuracy: 46.15%
+Finished Training
+Training Time : 1666.4608507156372
+Final Training Loss: 1.590480837218292
+Final Training Accuracy: 46.15%
+Memory used for training: 3003216 Bytes
+Saving the model as LogisticRegression_CIFAR10_2GPUs.pth
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Let's use 2 GPUs!
+Test Accuracy: 39.56%
+Test Loss: 1.7573954626253456

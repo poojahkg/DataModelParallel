@@ -1,0 +1,215 @@
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Number of GPUS :1
+[1,  1500] loss: 4.599
+Epoch 1 Training Accuracy: 1.814%
+[2,  1500] loss: 4.350
+Epoch 2 Training Accuracy: 4.522%
+[3,  1500] loss: 3.904
+Epoch 3 Training Accuracy: 10.38%
+[4,  1500] loss: 3.651
+Epoch 4 Training Accuracy: 14.814%
+[5,  1500] loss: 3.443
+Epoch 5 Training Accuracy: 18.396%
+[6,  1500] loss: 3.280
+Epoch 6 Training Accuracy: 21.28%
+[7,  1500] loss: 3.123
+Epoch 7 Training Accuracy: 24.076%
+[8,  1500] loss: 2.977
+Epoch 8 Training Accuracy: 26.758%
+[9,  1500] loss: 2.846
+Epoch 9 Training Accuracy: 29.312%
+[10,  1500] loss: 2.736
+Epoch 10 Training Accuracy: 31.394%
+[11,  1500] loss: 2.629
+Epoch 11 Training Accuracy: 33.678%
+[12,  1500] loss: 2.534
+Epoch 12 Training Accuracy: 35.524%
+[13,  1500] loss: 2.446
+Epoch 13 Training Accuracy: 37.53%
+[14,  1500] loss: 2.368
+Epoch 14 Training Accuracy: 39.06%
+[15,  1500] loss: 2.291
+Epoch 15 Training Accuracy: 40.674%
+[16,  1500] loss: 2.216
+Epoch 16 Training Accuracy: 42.694%
+[17,  1500] loss: 2.148
+Epoch 17 Training Accuracy: 43.892%
+[18,  1500] loss: 2.083
+Epoch 18 Training Accuracy: 45.222%
+[19,  1500] loss: 2.021
+Epoch 19 Training Accuracy: 46.636%
+[20,  1500] loss: 1.956
+Epoch 20 Training Accuracy: 48.108%
+[21,  1500] loss: 1.892
+Epoch 21 Training Accuracy: 49.284%
+[22,  1500] loss: 1.836
+Epoch 22 Training Accuracy: 50.74%
+[23,  1500] loss: 1.773
+Epoch 23 Training Accuracy: 52.2%
+[24,  1500] loss: 1.714
+Epoch 24 Training Accuracy: 53.592%
+[25,  1500] loss: 1.660
+Epoch 25 Training Accuracy: 54.666%
+[26,  1500] loss: 1.609
+Epoch 26 Training Accuracy: 55.844%
+[27,  1500] loss: 1.555
+Epoch 27 Training Accuracy: 57.036%
+[28,  1500] loss: 1.505
+Epoch 28 Training Accuracy: 58.374%
+[29,  1500] loss: 1.457
+Epoch 29 Training Accuracy: 59.42%
+[30,  1500] loss: 1.405
+Epoch 30 Training Accuracy: 60.544%
+[31,  1500] loss: 1.356
+Epoch 31 Training Accuracy: 61.83%
+[32,  1500] loss: 1.307
+Epoch 32 Training Accuracy: 62.918%
+[33,  1500] loss: 1.266
+Epoch 33 Training Accuracy: 64.056%
+[34,  1500] loss: 1.216
+Epoch 34 Training Accuracy: 65.092%
+[35,  1500] loss: 1.173
+Epoch 35 Training Accuracy: 66.094%
+[36,  1500] loss: 1.136
+Epoch 36 Training Accuracy: 67.164%
+[37,  1500] loss: 1.090
+Epoch 37 Training Accuracy: 68.316%
+[38,  1500] loss: 1.048
+Epoch 38 Training Accuracy: 69.252%
+[39,  1500] loss: 1.014
+Epoch 39 Training Accuracy: 70.126%
+[40,  1500] loss: 0.969
+Epoch 40 Training Accuracy: 71.256%
+[41,  1500] loss: 0.935
+Epoch 41 Training Accuracy: 72.012%
+[42,  1500] loss: 0.895
+Epoch 42 Training Accuracy: 73.524%
+[43,  1500] loss: 0.875
+Epoch 43 Training Accuracy: 73.56%
+[44,  1500] loss: 0.833
+Epoch 44 Training Accuracy: 74.776%
+[45,  1500] loss: 0.795
+Epoch 45 Training Accuracy: 75.816%
+[46,  1500] loss: 0.771
+Epoch 46 Training Accuracy: 76.148%
+[47,  1500] loss: 0.739
+Epoch 47 Training Accuracy: 77.296%
+[48,  1500] loss: 0.711
+Epoch 48 Training Accuracy: 78.012%
+[49,  1500] loss: 0.691
+Epoch 49 Training Accuracy: 78.344%
+[50,  1500] loss: 0.659
+Epoch 50 Training Accuracy: 79.28%
+[51,  1500] loss: 0.637
+Epoch 51 Training Accuracy: 79.778%
+[52,  1500] loss: 0.603
+Epoch 52 Training Accuracy: 80.788%
+[53,  1500] loss: 0.590
+Epoch 53 Training Accuracy: 81.084%
+[54,  1500] loss: 0.560
+Epoch 54 Training Accuracy: 81.878%
+[55,  1500] loss: 0.560
+Epoch 55 Training Accuracy: 82.126%
+[56,  1500] loss: 0.527
+Epoch 56 Training Accuracy: 82.894%
+[57,  1500] loss: 0.506
+Epoch 57 Training Accuracy: 83.454%
+[58,  1500] loss: 0.487
+Epoch 58 Training Accuracy: 84.03%
+[59,  1500] loss: 0.476
+Epoch 59 Training Accuracy: 84.322%
+[60,  1500] loss: 0.456
+Epoch 60 Training Accuracy: 85.032%
+[61,  1500] loss: 0.439
+Epoch 61 Training Accuracy: 85.468%
+[62,  1500] loss: 0.433
+Epoch 62 Training Accuracy: 85.724%
+[63,  1500] loss: 0.437
+Epoch 63 Training Accuracy: 85.298%
+[64,  1500] loss: 0.401
+Epoch 64 Training Accuracy: 86.58%
+[65,  1500] loss: 0.394
+Epoch 65 Training Accuracy: 86.896%
+[66,  1500] loss: 0.388
+Epoch 66 Training Accuracy: 86.876%
+[67,  1500] loss: 0.389
+Epoch 67 Training Accuracy: 86.854%
+[68,  1500] loss: 0.367
+Epoch 68 Training Accuracy: 87.632%
+[69,  1500] loss: 0.349
+Epoch 69 Training Accuracy: 88.256%
+[70,  1500] loss: 0.328
+Epoch 70 Training Accuracy: 88.84%
+[71,  1500] loss: 0.335
+Epoch 71 Training Accuracy: 88.696%
+[72,  1500] loss: 0.337
+Epoch 72 Training Accuracy: 88.526%
+[73,  1500] loss: 0.323
+Epoch 73 Training Accuracy: 89.086%
+[74,  1500] loss: 0.324
+Epoch 74 Training Accuracy: 88.896%
+[75,  1500] loss: 0.319
+Epoch 75 Training Accuracy: 89.172%
+[76,  1500] loss: 0.309
+Epoch 76 Training Accuracy: 89.488%
+[77,  1500] loss: 0.297
+Epoch 77 Training Accuracy: 89.816%
+[78,  1500] loss: 0.278
+Epoch 78 Training Accuracy: 90.464%
+[79,  1500] loss: 0.270
+Epoch 79 Training Accuracy: 90.784%
+[80,  1500] loss: 0.284
+Epoch 80 Training Accuracy: 90.422%
+[81,  1500] loss: 0.273
+Epoch 81 Training Accuracy: 90.604%
+[82,  1500] loss: 0.280
+Epoch 82 Training Accuracy: 90.344%
+[83,  1500] loss: 0.251
+Epoch 83 Training Accuracy: 91.292%
+[84,  1500] loss: 0.274
+Epoch 84 Training Accuracy: 90.634%
+[85,  1500] loss: 0.256
+Epoch 85 Training Accuracy: 91.274%
+[86,  1500] loss: 0.243
+Epoch 86 Training Accuracy: 91.786%
+[87,  1500] loss: 0.246
+Epoch 87 Training Accuracy: 91.6%
+[88,  1500] loss: 0.254
+Epoch 88 Training Accuracy: 91.362%
+[89,  1500] loss: 0.231
+Epoch 89 Training Accuracy: 92.098%
+[90,  1500] loss: 0.224
+Epoch 90 Training Accuracy: 92.492%
+[91,  1500] loss: 0.200
+Epoch 91 Training Accuracy: 93.078%
+[92,  1500] loss: 0.223
+Epoch 92 Training Accuracy: 92.43%
+[93,  1500] loss: 0.246
+Epoch 93 Training Accuracy: 91.638%
+[94,  1500] loss: 0.273
+Epoch 94 Training Accuracy: 90.916%
+[95,  1500] loss: 0.251
+Epoch 95 Training Accuracy: 91.57%
+[96,  1500] loss: 0.209
+Epoch 96 Training Accuracy: 92.822%
+[97,  1500] loss: 0.253
+Epoch 97 Training Accuracy: 91.604%
+[98,  1500] loss: 0.215
+Epoch 98 Training Accuracy: 92.886%
+[99,  1500] loss: 0.187
+Epoch 99 Training Accuracy: 93.628%
+[100,  1500] loss: 0.182
+Epoch 100 Training Accuracy: 93.844%
+Finished Training
+Training Time : 1750.7016649246216
+Final Training Loss: 0.009453747111658065
+Final Training Accuracy: 93.844%
+Memory used for training: 2200373 Bytes
+Saving the model as CNN_CIFAR100_1GPUs.pth
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Test Accuracy: 35.15%
+Test Loss: 9.444160517793113

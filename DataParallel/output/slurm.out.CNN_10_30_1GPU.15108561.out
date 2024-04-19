@@ -1,0 +1,75 @@
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Number of GPUS :1
+[1,  1500] loss: 2.202
+Epoch 1 Training Accuracy: 19.626%
+[2,  1500] loss: 1.765
+Epoch 2 Training Accuracy: 36.636%
+[3,  1500] loss: 1.509
+Epoch 3 Training Accuracy: 45.44%
+[4,  1500] loss: 1.376
+Epoch 4 Training Accuracy: 50.42%
+[5,  1500] loss: 1.272
+Epoch 5 Training Accuracy: 54.304%
+[6,  1500] loss: 1.178
+Epoch 6 Training Accuracy: 58.098%
+[7,  1500] loss: 1.103
+Epoch 7 Training Accuracy: 60.958%
+[8,  1500] loss: 1.033
+Epoch 8 Training Accuracy: 63.7%
+[9,  1500] loss: 0.974
+Epoch 9 Training Accuracy: 65.754%
+[10,  1500] loss: 0.922
+Epoch 10 Training Accuracy: 67.522%
+[11,  1500] loss: 0.869
+Epoch 11 Training Accuracy: 69.53%
+[12,  1500] loss: 0.823
+Epoch 12 Training Accuracy: 71.268%
+[13,  1500] loss: 0.780
+Epoch 13 Training Accuracy: 72.858%
+[14,  1500] loss: 0.740
+Epoch 14 Training Accuracy: 74.214%
+[15,  1500] loss: 0.703
+Epoch 15 Training Accuracy: 75.488%
+[16,  1500] loss: 0.666
+Epoch 16 Training Accuracy: 76.734%
+[17,  1500] loss: 0.630
+Epoch 17 Training Accuracy: 78.264%
+[18,  1500] loss: 0.597
+Epoch 18 Training Accuracy: 79.248%
+[19,  1500] loss: 0.565
+Epoch 19 Training Accuracy: 80.12%
+[20,  1500] loss: 0.533
+Epoch 20 Training Accuracy: 81.432%
+[21,  1500] loss: 0.509
+Epoch 21 Training Accuracy: 82.112%
+[22,  1500] loss: 0.474
+Epoch 22 Training Accuracy: 83.44%
+[23,  1500] loss: 0.445
+Epoch 23 Training Accuracy: 84.44%
+[24,  1500] loss: 0.420
+Epoch 24 Training Accuracy: 85.442%
+[25,  1500] loss: 0.393
+Epoch 25 Training Accuracy: 86.286%
+[26,  1500] loss: 0.367
+Epoch 26 Training Accuracy: 87.048%
+[27,  1500] loss: 0.347
+Epoch 27 Training Accuracy: 87.858%
+[28,  1500] loss: 0.317
+Epoch 28 Training Accuracy: 88.872%
+[29,  1500] loss: 0.291
+Epoch 29 Training Accuracy: 89.806%
+[30,  1500] loss: 0.263
+Epoch 30 Training Accuracy: 90.83%
+Finished Training
+Training Time : 555.1246421337128
+Final Training Loss: 0.012998318136386664
+Final Training Accuracy: 90.83%
+Memory used for training: 2174711 Bytes
+Saving the model as CNN_CIFAR10_1GPUs.pth
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Test Accuracy: 72.4%
+Test Loss: 1.0593297374895967
