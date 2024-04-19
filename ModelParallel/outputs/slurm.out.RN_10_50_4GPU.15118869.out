@@ -1,0 +1,64 @@
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1 Training Accuracy: 22.434%
+Epoch 2 Training Accuracy: 35.102%
+Epoch 3 Training Accuracy: 41.092%
+Epoch 4 Training Accuracy: 45.458%
+Epoch 5 Training Accuracy: 50.028%
+Epoch 6 Training Accuracy: 53.562%
+Epoch 7 Training Accuracy: 56.95%
+Epoch 8 Training Accuracy: 59.736%
+Epoch 9 Training Accuracy: 63.11%
+Epoch 10 Training Accuracy: 66.342%
+Epoch 11 Training Accuracy: 69.436%
+Epoch 12 Training Accuracy: 71.944%
+Epoch 13 Training Accuracy: 75.08%
+Epoch 14 Training Accuracy: 77.74%
+Epoch 15 Training Accuracy: 80.368%
+Epoch 16 Training Accuracy: 82.494%
+Epoch 17 Training Accuracy: 83.656%
+Epoch 18 Training Accuracy: 86.414%
+Epoch 19 Training Accuracy: 87.304%
+Epoch 20 Training Accuracy: 88.95%
+Epoch 21 Training Accuracy: 90.236%
+Epoch 22 Training Accuracy: 90.858%
+Epoch 23 Training Accuracy: 91.81%
+Epoch 24 Training Accuracy: 92.202%
+Epoch 25 Training Accuracy: 93.63%
+Epoch 26 Training Accuracy: 94.086%
+Epoch 27 Training Accuracy: 94.234%
+Epoch 28 Training Accuracy: 94.602%
+Epoch 29 Training Accuracy: 95.296%
+Epoch 30 Training Accuracy: 95.874%
+Epoch 31 Training Accuracy: 96.08%
+Epoch 32 Training Accuracy: 96.42%
+Epoch 33 Training Accuracy: 96.67%
+Epoch 34 Training Accuracy: 96.966%
+Epoch 35 Training Accuracy: 96.744%
+Epoch 36 Training Accuracy: 96.864%
+Epoch 37 Training Accuracy: 97.17%
+Epoch 38 Training Accuracy: 97.148%
+Epoch 39 Training Accuracy: 97.008%
+Epoch 40 Training Accuracy: 97.446%
+Epoch 41 Training Accuracy: 97.552%
+Epoch 42 Training Accuracy: 97.92%
+Epoch 43 Training Accuracy: 98.126%
+Epoch 44 Training Accuracy: 97.898%
+Epoch 45 Training Accuracy: 98.292%
+Epoch 46 Training Accuracy: 98.41%
+Epoch 47 Training Accuracy: 98.296%
+Epoch 48 Training Accuracy: 98.592%
+Epoch 49 Training Accuracy: 98.638%
+Epoch 50 Training Accuracy: 98.592%
+Finished Training
+Training Time : 1030.9851806163788
+Final Training Loss: 0.041650530656494794
+Final Training Accuracy: 98.592%
+Memory used for training: 2264740 Bytes
+Saving the model as ResNet_CIFAR10_50_4GPUs.pth
+cuda:0
+Files already downloaded and verified
+Files already downloaded and verified
+Test Accuracy: 55.18%
+Test Loss: 3.0340425651284715
